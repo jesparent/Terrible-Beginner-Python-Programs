@@ -1,5 +1,4 @@
 #Jesse Parent
-#inf 308 w3
 #8baller
 
 
